@@ -1,0 +1,3 @@
+# ERestaurantNLayeredApp
+I wrote a e-restaurant stock tracking system for restaurants with C# of web forms ui. 
+This is my first project so i hope that is good beginning for my future projects...
